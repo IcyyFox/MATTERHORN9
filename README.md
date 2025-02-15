@@ -1,4 +1,4 @@
-# MATTERHORN9
+# MATTERHORN9/MH9 BOT FRAMEWORK
 Thank you for choosing Matterhorn to manage your airline!
 
 This framework was originally built to operate exclusively with AirAlps (A virtual airline which has since shut down). The bot was AirAlps' greatest selling point, and as long as the bot was operational, AirAlps was running the very best in CRP Innovation.
